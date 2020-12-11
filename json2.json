@@ -1,0 +1,24 @@
+  [
+    {
+      "creator": "ueli",
+      "inventations": [ "peter", "stefan" ],
+      "members": [ "ueli", "peter", "stefan" ],
+      "packlist": [ "zelt", "grill" ],
+      "event_name": "Matterhorn",
+      "event_costs": "23.35",
+      "destination": "Zermatt",
+      "event_date": "2020-12-12",
+      "image":  "matterhorn.jpg"
+    },
+    {
+      "creator": "ueli",
+      "inventations": [ "peter", "stefan" ],
+      "members": [ "ueli", "peter", "stefan" ],
+      "packlist": [ "kamera", "chips" ],
+      "event_name": "Pilatus",
+      "event_costs": "23.35",
+      "destination": "Luzern",
+      "event_date": "2020-12-24",
+      "image": "pilatus.jpg"
+    }
+  ]
