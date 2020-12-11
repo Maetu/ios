@@ -1,4 +1,5 @@
-  [
+{
+  "groupevents": [
     {
       "creator": "ueli",
       "inventations": [ "peter", "stefan" ],
@@ -8,7 +9,7 @@
       "event_costs": "23.35",
       "destination": "Zermatt",
       "event_date": "2020-12-12",
-      "image":  "matterhorn.jpg"
+      "image": "matterhorn.jpg"
     },
     {
       "creator": "ueli",
@@ -22,3 +23,5 @@
       "image": "pilatus.jpg"
     }
   ]
+}
+
