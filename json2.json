@@ -21,6 +21,17 @@
       "destination": "Luzern",
       "event_date": "2020-12-24",
       "image": "pilatus.jpg"
+    },
+    {
+      "creator": "peter",
+      "inventations": [ "ueli", "stefan" ],
+      "members": [ "peter", "stefan" ],
+      "packlist": [ "kamera", "chips" ],
+      "event_name": "Pilatus",
+      "event_costs": "23.35",
+      "destination": "Chur",
+      "event_date": "2020-12-18",
+      "image": "standard.jpg"
     }
   ]
 }
