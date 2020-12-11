@@ -6,5 +6,6 @@
     "event_name": "Matterhorn",
     "event_costs": "23.35",
     "destination": "Zermatt",
-    "event_date": "2020-12-12"
+    "event_date": "2020-12-12",
+    "image": "matterhorn.jpg"
 }
